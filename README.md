@@ -11,7 +11,7 @@
 
 ## Some informations
 - 🔭 I'm currently working on **my own password manager**.
-- 🌱 I'm currently learning about **artificial intelligence**, **trading algorithms** and try to understand somthing about **quantum computers**.
+- 🌱 I'm currently learning about **artificial intelligence**, **trading algorithms** and try to understand something about **quantum computers**.
 - 👯 I’m looking to collaborate on astrophysics or artificial intelligence projects.
 - 🤔 I’m looking for help with Astrophysics metrics explanations.
 - 📫 How to reach me: letgui2@gmail.com.
