@@ -10,7 +10,7 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-ProgLangLearn-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIjvINHA3nQm971sv-bbFGw) -->
 
 ## Some informations
-- 🔭 I'm currently working on **my password manager**.
+- 🔭 I'm currently working on **my own password manager**.
 - 🌱 I'm currently learning about **artificial intelligence**, **trading algorithms** and try to understand somthing about **quantum computers**.
 - 👯 I’m looking to collaborate on astrophysics or artificial intelligence projects.
 - 🤔 I’m looking for help with Astrophysics metrics explanations.
