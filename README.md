@@ -1,6 +1,6 @@
 # Hi there, I'm Guillaume <img src="images/hello_hand.gif" width="28px" alt="Hi !" />
 
-### I am a french student bachelor's degree in computer science at the [University of Caen, Normandy](http://www.unicaen.fr/). I mostly spend my time to code different types of projects.
+### I am a french student in bachelor's degree in computer science at the [University of Caen, Normandy](http://www.unicaen.fr/). I mostly spend my time to code different types of projects.
 
 
 ## :mailbox: Reach me out !
