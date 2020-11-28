@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with Astrophysics metrics explanations.
 - 📫 How to reach me: letgui2@gmail.com.
 - 😄 Pronouns : Guillaume Letellier, Guigui Letellier, GuiguiLet, Guigui14460.
-- ⚡ Fun fact : I play games and listen a lot of music.
+- :heartpulse: My hobbies : computer science (artificial intelligence, quantum computing, simulation), physics, video games.
 
 ## Top technolgies
 
