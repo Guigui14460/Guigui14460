@@ -43,9 +43,13 @@
 
 ### Top languages used in my repos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigui14460)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigui14460&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- &layout=compact&langs_count=8 -->
+<!-- &langs_count=8 -->
+
+## Spotify songs :
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=h4285qfcfvnef8jg13eigdkpo&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=h4285qfcfvnef8jg13eigdkpo&cover_image=true&theme=default)]]
 
 </details>
 
