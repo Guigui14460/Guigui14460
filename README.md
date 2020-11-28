@@ -49,7 +49,7 @@
 
 ## Spotify songs :
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=h4285qfcfvnef8jg13eigdkpo&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=h4285qfcfvnef8jg13eigdkpo&cover_image=true&theme=default)]]
+[![https://spotify-github-profile.vercel.app/api/view.svg?uid=h4285qfcfvnef8jg13eigdkpo&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=h4285qfcfvnef8jg13eigdkpo&cover_image=true&theme=default)]
 
 </details>
 
