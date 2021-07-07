@@ -10,13 +10,13 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-ProgLangLearn-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIjvINHA3nQm971sv-bbFGw) -->
 
 ## Some informations
-- 🔭 I'm currently working on **my password manager**.
-- 🌱 I'm currently learning about **artificial intelligence**, **trading algorithms** and try to understand somthing about **quantum computers**.
+- 🔭 I'm currently working on **my own password manager**.
+- 🌱 I'm currently learning about **artificial intelligence**, **trading algorithms** and try to understand something about **quantum computers**.
 - 👯 I’m looking to collaborate on astrophysics or artificial intelligence projects.
 - 🤔 I’m looking for help with Astrophysics metrics explanations.
 - 📫 How to reach me: letgui2@gmail.com.
 - 😄 Pronouns : Guillaume Letellier, Guigui Letellier, GuiguiLet, Guigui14460.
-- ⚡ Fun fact : I play games and listen a lot of music.
+- :heartpulse: My hobbies : computer science (artificial intelligence, quantum computing, simulation), physics, video games.
 
 ## Top technolgies
 
@@ -43,9 +43,13 @@
 
 ### Top languages used in my repos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigui14460)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigui14460&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- &layout=compact&langs_count=8 -->
+<!-- &langs_count=8 -->
+
+## Spotify songs :
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h4285qfcfvnef8jg13eigdkpo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=h4285qfcfvnef8jg13eigdkpo&redirect=true)
 
 </details>
 
