@@ -12,9 +12,9 @@
 - 🔭 I'm currently working on **some Kaggle competitions**.
 - 🌱 I'm currently learning about **artificial intelligence** and try to understand something about **quantum computers**.
 - 👯 I’m looking to collaborate on astrophysics, quantum computing or artificial intelligence projects.
-<!-- - 🤔 I’m looking for help with  -->
 - 📫 How to reach me: letgui2@gmail.com.
 - :heartpulse: My hobbies : computer science (artificial intelligence, quantum computing, simulation), physics, video games, French rap music.
+<!-- - 🤔 I’m looking for help with  -->
 
 ## Top technolgies
 
