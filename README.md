@@ -18,7 +18,7 @@
 
 ## Top technolgies
 
-[![Python Badge](https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&labelColor=black&logo=python&logoColor=4584b6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f7df1e)](#) [![Java Badge](https://img.shields.io/badge/-Java-db1f29?style=for-the-badge&labelColor=black&logo=java&logoColor=db1f29)](#) [![C Badge](https://img.shields.io/badge/-C-2472a6?style=for-the-badge&labelColor=black&logo=c&logoColor=2472a6)](#) 
+[![Python Badge](https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&labelColor=black&logo=python&logoColor=4584b6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f7df1e)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-2f74c0?style=for-the-badge&labelColor=black&logo=typescript&logoColor=2f74c0)](#) [![Java Badge](https://img.shields.io/badge/-Java-db1f29?style=for-the-badge&labelColor=black&logo=java&logoColor=db1f29)](#) [![C Badge](https://img.shields.io/badge/-C-2472a6?style=for-the-badge&labelColor=black&logo=c&logoColor=2472a6)](#)
 
 
 ## Business
