@@ -1,4 +1,4 @@
-# Hi there, I'm Guillaume <img src="images/hello_hand.gif" width="28px" alt="Hi !" />
+# Hi there, I'm Guillaume <img src="images/hello_hand.gif" width="28px" height="28px" alt="Hi !" />
 
 ### I am a french student in master's degree in computer science at the [University of Caen, Normandy](http://www.unicaen.fr/). I mostly spend my time to code different types of projects.
 
