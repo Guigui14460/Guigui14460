@@ -1,6 +1,6 @@
 # Hi there, I'm Guillaume <img src="images/hello_hand.gif" width="28px" height="28px" alt="Hi !" />
 
-### I am a french student in master's degree in computer science at the [University of Caen, Normandy](http://www.unicaen.fr/). I mostly spend my time to code different types of projects.
+### I am a french PhD student in computer science at the [University of Caen, Normandy](http://www.unicaen.fr/). I mostly spend my time to code different kind of projects and on things related to my interests.
 
 
 ## :mailbox: Reach me out !
@@ -9,10 +9,10 @@
 
 
 ## Some informations
-- 🔭 I'm currently working on **an awesome project**.
-- 🌱 I'm currently learning about **artificial intelligence** and try to understand something about **quantum computers**.
+- 🔭 I'm currently working on **3D Point Cloud things**.
+- 🌱 I'm currently learning about **quantum computers**.
 - 👯 I’m looking to collaborate on machine learning, quantum computing or astrophysics projects.
-- 📫 How to reach me: letgui2@gmail.com.
+- 📫 How to reach me: letgui2@gmail.com or guillaume.letellier@unicaen.fr.
 - :heartpulse: My hobbies : computer science (artificial intelligence, machine learning, quantum computing, simulation), physics, video games, French rap music.
 <!-- - 🤔 I’m looking for help with  -->
 
@@ -23,7 +23,7 @@
 
 ## Business
 - :paperclip: [My Resume/CV](documents/resume.pdf)
-- :email: letgui2@gmail.com
+- :email: letgui2@gmail.com / guillaume.letellier@unicaen.fr
 
 
 ## Profile visits
